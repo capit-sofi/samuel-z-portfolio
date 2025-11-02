@@ -1,5 +1,5 @@
 import {React, useTransition, useState} from "react";
-import Tilt from "react-tilt";
+import Tilt from 'react-parallax-tilt'
 import { motion } from "framer-motion";
 
 
