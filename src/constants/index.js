@@ -169,10 +169,13 @@ const experiences = [
     iconBg: "#383E56",
     date: "2015E.C - Present",
     points: [
-      "Prepare and develop architectural drawings, designs, and presentations for various projects.",
-      "Supervise on-site construction activities to ensure design accuracy and quality implementation.",
-      "Coordinate between design teams, contractors, and clients to resolve technical and site-related issues.",
-      "Conduct site inspections and prepare progress and quality control reports.",
+     "TESTIMONIAL",
+     "During his period, he has successfully caried out his job and demonstrated his profession. He was punctual, dedicated, optimistic, creative, diligent, cooperative and hard-working professional. And it is delight to work with him.",
+     "Design and supervision projects handled/participated during his stay as an architect.",
+     "•	G+ 6 mixed used building for ATO CHURU W/YOUHANNES",
+     "•	G+ 6 mixed used building for ATO DAWIT BONGER",
+     "•	B + g + 5 mixed used building for HIRUT KEFETAWU",
+     "•	B +g + 4 + m ADMINISTRATION BUILDING FOR SALO DEBRE TSEHAY ST. GIORGIS CHURCH AND HAMER HIWOT SUNDAY SCHOOL",
     ],
   },
   {
@@ -182,10 +185,9 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "Jan 2013E.C - May 2014E.C",
     points: [
-      "Design and prepare architectural plans for university buildings and facilities.",
-      "Develop detailed working drawings and specifications for construction projects.",
-      "Conduct site assessments and prepare feasibility studies for proposed projects.",
-      "Participate in renovation and maintenance planning for existing university structures."
+      "TESTIMONIAL",
+      "He was involved as an architect in the project, he fully completed his role in the five design projects on our consultancy team, on time and on the budget  from January 14,2021 to may 2022 ( the activities he involved area : landscape design from site analysis to design ( like event park, plaza, public park, sport facility and Ashewa market place.), the architectural design ( building design like book store, admin building, cafeteria, shop and some public service buildings). He also worked on preparing landscape presentation drawings and architectural working drawings.",
+      
     ],
   },
   {
@@ -371,7 +373,7 @@ const projects = [
     source_code_link: "",
   },
     {
-    name: "Ethiopian Navey Force Landscape",
+    name: "Ethiopian Navy Force Landscape",
     description:
       "The Ethiopian Navy Force Landscape Architectural Design integrates functionality, security, and aesthetics to create a disciplined yet inviting environment.",
     tags: [
@@ -476,7 +478,7 @@ const projects = [
     source_code_link: "",
   },
       {
-    name: "Ethiopian Navey Force Landscape",
+    name: "Ethiopian Navy Force Landscape",
     description:
       "The Ethiopian Navy Force Landscape Architectural Design integrates functionality, security, and aesthetics to create a disciplined yet inviting environment.",
     tags: [
