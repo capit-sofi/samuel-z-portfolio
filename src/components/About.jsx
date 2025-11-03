@@ -57,6 +57,15 @@ const About = () => {
                        •	Switch routing and wireless essential course<br/>
                        •	Enterprise networking, security and automation   <br/> 
                        -	Interior design course from Hanic interior design school <br/>
+                       <span className="text-lg">Key Projects</span><br/>
+                       • Shimelis Getu Engineering and Construction Laboratory Project – Project Manager<br/>
+                       • Corridor Project – Project Manager<br/>
+                       • Ethiopian Navy Force Landscape Design – Designer<br/>
+                       • Ethiopian Navy Force Stadium Design – Principal Designer<br/>
+                       • Haramaya University Ashewa Project – Participating Designer<br/>
+                       • Various Residential and Commercial Developments – Lead Architect & Designer<br/>
+                       • Landscape and Interior Design Projects – Design Lead<br/>
+
 
                     </p>
                 </div>
